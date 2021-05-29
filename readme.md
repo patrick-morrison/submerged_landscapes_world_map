@@ -1,5 +1,7 @@
 # Submerged landscapes map
 
+Deployed to <https://patrick-morrison.github.io/submerged_landscapes_world_map/>
+
 This map shows submerged lands all over the world. It highlights :
 
 -   -130m: the lowest sea level during the last ice age (22ka),
