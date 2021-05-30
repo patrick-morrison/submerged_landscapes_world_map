@@ -91,9 +91,9 @@
 
         // Map
         var map = L.map('map', {
-            center: [0.0, 0.0],
-            zoom: 3,
-            minZoom: 2,
+            center: [-3.07, 110.92],
+            zoom: 2,
+            minZoom: 0,
             maxZoom: 7,
             layers: [cartodb, lyr]
         });
@@ -118,7 +118,7 @@
         // Add base layers
         L.control.layers(basemaps, overlaymaps, {collapsed: true}).addTo(map);
         
-        //leaflet-hash
+                //leaflet-hash
         var hash = new L.Hash(map);
         
 
